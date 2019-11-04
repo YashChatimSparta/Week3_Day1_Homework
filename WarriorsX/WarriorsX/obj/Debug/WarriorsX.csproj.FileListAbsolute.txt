@@ -1,0 +1,6 @@
+C:\Users\Yash Chatim\Engineering45\game\WarriorsX\WarriorsX\bin\Debug\WarriorsX.exe.config
+C:\Users\Yash Chatim\Engineering45\game\WarriorsX\WarriorsX\bin\Debug\WarriorsX.exe
+C:\Users\Yash Chatim\Engineering45\game\WarriorsX\WarriorsX\bin\Debug\WarriorsX.pdb
+C:\Users\Yash Chatim\Engineering45\game\WarriorsX\WarriorsX\obj\Debug\WarriorsX.csprojAssemblyReference.cache
+C:\Users\Yash Chatim\Engineering45\game\WarriorsX\WarriorsX\obj\Debug\WarriorsX.exe
+C:\Users\Yash Chatim\Engineering45\game\WarriorsX\WarriorsX\obj\Debug\WarriorsX.pdb
